@@ -1,1 +1,21 @@
+---
+title: "JG_DisEco_Fall2025"
+author: "Jake Givens"
+format: html
+editor: visual
+---
 
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](EpiTriad.png)
+
+This is the Epidemiological Triad representing the connection between host, pathogen environment and environment and how they interact with each other.
