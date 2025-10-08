@@ -71,7 +71,7 @@ Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There
 
 Worksheet 3: Measures of disease frequency: Prevalence and Incidence
 
-a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)
+a)  Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)
 
 **6/12/25 - 6/53 (0.113) Elk cases per day**
 
@@ -79,7 +79,7 @@ a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for inc
 
 **6/15/25 - 0/42 (0) Elk cases per day**
 
-b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. (5 points)
+b)  What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. (5 points)
 
 **6/13/25 - 10/56 (0.179) Cases per Elk population**
 
@@ -92,3 +92,9 @@ c\) On which day is the prevalence same as the incidence (except the units)? (3 
 d\) On which day is the incidence lowest? (3 points)
 
 **6/16/25**
+
+------------------------------------------------------------------------
+
+[**Tick Lab**]{.underline}
+
+When identifying tick species, you first begin with the life stage. This is evident by the presence or absence of a genital pore and the number of legs, with larvae having 6 and adults and nymphs having 8. The next step is to identify sex with males having conscutum and females having alloscutum. The third step is to identify the genus based on the location of the anal groove, anterior or posterior. The last step in tick identification is to identify species using the SAM method: Scutum pattern, Anal groove location, and whether the mouthparts are long or short. It is important to be able to identify ticks because of the pathogens each one carries. Each tick species carries diseases that can become a threat to public health if not properly monitored.
