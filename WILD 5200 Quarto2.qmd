@@ -98,3 +98,25 @@ d\) On which day is the incidence lowest? (3 points)
 [**Tick Lab**]{.underline}
 
 When identifying tick species, you first begin with the life stage. This is evident by the presence or absence of a genital pore and the number of legs, with larvae having 6 and adults and nymphs having 8. The next step is to identify sex with males having conscutum and females having alloscutum. The third step is to identify the genus based on the location of the anal groove, anterior or posterior. The last step in tick identification is to identify species using the SAM method: Scutum pattern, Anal groove location, and whether the mouthparts are long or short. It is important to be able to identify ticks because of the pathogens each one carries. Each tick species carries diseases that can become a threat to public health if not properly monitored.
+
+------------------------------------------------------------------------
+
+**Exam 1 Rework**
+
+7.  Mass die-off of saiga antelopes was caused by a bacterium called *Pasteurella multocida*, which typically lives in the nasal cavities of the antelopes; however, in 2015, the environmental conditions led to increased humidity and temperatures, which caused the bacteria to become pathogenic and deadly to the antelopes. Because the antelopes gather in large populations during the birthing season, the close contact greatly increased the host availability, allowing the pathogen to run rampant within the population, resulting in the deaths of over 200,000 animals. Some strategies to prevent these MMEs in the future include monitoring environmental conditions, researching potential vaccines, and improving disease surveillance. Broader conservation methods include reducing other stressors on the population, such as poaching and habitat loss, so that saiga numbers can recover naturally.
+
+<!-- -->
+
+9.  R₀ is the basic reproduction number noted by the average number of new infections caused by a single infected individual in a fully susceptible population.
+
+    Situation 1 - one flamingo infects 1 flamingo for a total of 1
+
+    Situation 2 - one flamingo infects 3 flamingos for a total of 3
+
+    Situation 3 - one flamingo infects 2 flamingos for a total of 2
+
+    Situation 4 - One infected flamingo infects 0 other flamingos for a total of 0
+
+The average of the R₀ in the 4 situations is 1+3+2+0/4 = 1.5
+
+In the real world, utility R₀ can be used to describe how infectious a particular disease is, with R₀\> 1 indicating the infection will likely spread through the population and could become a pandemic, R₀=1 representing that the disease is in a steady state and remains endemic, and R₀\<1 representing that the infection will die out. R₀ can also be used in disease models and can be calculated by the rate of infection/ the rate of recovery, or β​/γ.
