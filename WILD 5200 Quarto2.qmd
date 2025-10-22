@@ -120,3 +120,35 @@ When identifying tick species, you first begin with the life stage. This is evid
 The average of the R₀ in the 4 situations is 1+3+2+0/4 = 1.5
 
 In the real world, utility R₀ can be used to describe how infectious a particular disease is, with R₀\> 1 indicating the infection will likely spread through the population and could become a pandemic, R₀=1 representing that the disease is in a steady state and remains endemic, and R₀\<1 representing that the infection will die out. R₀ can also be used in disease models and can be calculated by the rate of infection/ the rate of recovery, or β​/γ.
+
+------------------------------------------------------------------------
+
+Worksheet 4 10/23/25
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in healthcare–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Center for Disease Prevention and Control)
+
+Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)
+
+ 1. MERS-CoV is primarily maintained in human populations. (2 points)
+
+-   The disease is maintained within the Camel population
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+-   True Camels are the main animal reservoir
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+-   True Humans are the dead-end host
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+
+-   No, as stated above, the case fatality rate is 35%
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+-   The epi curve represents a propagated outbreak due to the many peaks noted on the graph
