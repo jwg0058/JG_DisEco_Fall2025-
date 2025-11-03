@@ -133,7 +133,7 @@ Distribution of confirmed cases of MERS by place of infection and month of onset
 
 Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)
 
- 1. MERS-CoV is primarily maintained in human populations. (2 points)
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
 
 -   The disease is maintained within the Camel population
 
@@ -152,3 +152,25 @@ Which of the following statements about MERS-CoV are correct? (If it is incorrec
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
 
 -   The epi curve represents a propagated outbreak due to the many peaks noted on the graph
+
+------------------------------------------------------------------------
+
+**Worksheet 5**
+
+Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1\. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification. 5 points
+
+-   This incident would be considered a spillover event based on the community epidemiology framework developed by Fenton and Pedersen. This is because humans contracted the virus from a reservoir animal species to humans and it consisted of non-sustained human-to-human transmission.
+
+2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings? 5 points
+
+-   One way to reduce transmission within the community is to educate the public on the situation and how to avoid bat exposure, mentioning staying away from caves inhabited by bats without proper PPE. Those who experience symptoms should self-isolate to limit the spread and report their symptoms to the local health authorities for outbreak surveillance. Fention and Penfersen recommend 3 techniques in controlling infection
+
+    -   Control the target population (Humans)
+
+    -   prevent transmission between the target and reservoir
+
+    -   Control the Reservoir (Bats)
+
+-   To reduce the spread of infection in hospital settings, those working directly with patients should have proper PPE and practice correct hand washing techniques. Patients with similar symptoms should be grouped together to avoid contact with uninfected patients. Patients' rooms who were infectious should receive proper cleaning with disinfectants.
