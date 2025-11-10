@@ -163,7 +163,7 @@ Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the c
 
 -   This incident would be considered a spillover event based on the community epidemiology framework developed by Fenton and Pedersen. This is because humans contracted the virus from a reservoir animal species to humans and it consisted of non-sustained human-to-human transmission.
 
-2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings? 5 points
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings? 5 points
 
 -   One way to reduce transmission within the community is to educate the public on the situation and how to avoid bat exposure, mentioning staying away from caves inhabited by bats without proper PPE. Those who experience symptoms should self-isolate to limit the spread and report their symptoms to the local health authorities for outbreak surveillance. Fention and Penfersen recommend 3 techniques in controlling infection
 
@@ -174,3 +174,29 @@ Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the c
     -   Control the Reservoir (Bats)
 
 -   To reduce the spread of infection in hospital settings, those working directly with patients should have proper PPE and practice correct hand washing techniques. Patients with similar symptoms should be grouped together to avoid contact with uninfected patients. Patients' rooms who were infectious should receive proper cleaning with disinfectants.
+
+------------------------------------------------------------------------
+
+**Worksheet 6**
+
+Pond 1
+
+• Prevalence
+
+N- 20, Infected - 6
+
+Prevalence (30%) Lower - 14%, upper - 52.5% at 95% CI
+
+• Fisher’s exact test p-value - 0.1987
+
+Pond 2
+
+• Prevalence (6.7%) Lower - 0.3%, upper - 30.2% at 95% CI
+
+N- 15, Infected -1
+
+• Fisher’s exact test p-value - 0.1987
+
+• Interpretation
+
+Prevalence was found to be higher in pond 1 than in pond 2, but it cannot be determined to be statistically significant due to the Fisher’s exact test p-value being greater than 0.05, and it is assumed that the observed difference in prevalence is most likely due to random chance.
