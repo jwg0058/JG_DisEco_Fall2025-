@@ -200,3 +200,25 @@ N- 15, Infected -1
 • Interpretation
 
 Prevalence was found to be higher in pond 1 than in pond 2, but it cannot be determined to be statistically significant due to the Fisher’s exact test p-value being greater than 0.05, and it is assumed that the observed difference in prevalence is most likely due to random chance.
+
+------------------------------------------------------------------------
+
+**Worksheet 7**
+
+[Nipah Virus]{.underline}
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
+
+-   In Malaysia, Bats are infecting food that pigs are consuming; in this case, pigs are the bridge host that are able to pass on the disease to humans. This focuses the preventive measures towards the bridge species, ensuring that exposures between bats and pigs are limited. In Bangladesh, however, the bats are infecting hosts via palm sap. In this area, palm sap is a large, product good and bats are getting into the collection sites and humans are consuming the infected sap. Prevention measures include monitoring the sap production and placing covers over the collection sites to reduce contact with bats.
+
+[Avian Reovirus]{.underline}
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+
+-   ARV can spread through both horizontal transmission, via the fecal-oral route, and vertical transmission. Transmission is exacerbated by poor litter hygiene, overcrowding, and inadequate ventilation. along with an increase in humidity and temperature, which increases virus stability. Since the pathogen replicates in the intestines, the fecal-oral route is supported. One wild bird disease caused by ARV is viral arthritis, which can decrease movement for wild birds, leading to an overall decrease in survivability.
+
+[Langya henipavirus]{.underline}
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+
+-   The main transmission of LayV is from spillover from wild shrews through both direct and indirect contact. There is a possibility that goats and dogs can transmit the virus to humans. LayV is considered a spillover due to the virus not being able to sustain within the H2 population, humans.
