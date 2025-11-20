@@ -222,3 +222,39 @@ Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the 
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 -   The main transmission of LayV is from spillover from wild shrews through both direct and indirect contact. There is a possibility that goats and dogs can transmit the virus to humans. LayV is considered a spillover due to the virus not being able to sustain within the H2 population, humans.
+
+------------------------------------------------------------------------
+
+**Worksheet 8**
+
+[Between Regions]{.underline}
+
+\@ 95% CI
+
+Central - 64.3% (9 infected out of 14 total)
+
+North - 28.6% (14 infected out of 35 total)
+
+South - 62.8% (27 infected out of 43 total)
+
+[Between Sex]{.underline}
+
+\@ 95% CI
+
+Male - 37.7% (26 infected out of 69 total)
+
+Female - 64.9% (24 infected out of 37 total)
+
+[Between Ages]{.underline}
+
+\@ 95% CI
+
+Adult - 52.2% (36 infected out of 69 total)
+
+Young Adult - 37.8% (14 infected out of 37 total)
+
+[Real-World Analysis]{.underline}
+
+This data shows that raccoons that are female, older, and live in the south/central region have a higher chance of contracting *B. procyonis* disease is less prevalent in raccoons that are young adults, male, or live in the northern regions. Because of this, disease prevention and control should be focused on the older populations that reside in the southern and central regions of the US.
+
+------------------------------------------------------------------------
