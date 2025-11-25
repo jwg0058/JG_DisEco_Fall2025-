@@ -258,3 +258,39 @@ Young Adult - 37.8% (14 infected out of 37 total)
 This data shows that raccoons that are female, older, and live in the south/central region have a higher chance of contracting *B. procyonis* disease is less prevalent in raccoons that are young adults, male, or live in the northern regions. Because of this, disease prevention and control should be focused on the older populations that reside in the southern and central regions of the US.
 
 ------------------------------------------------------------------------
+
+**Worksheet 9**
+
+1.  In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.
+
+    -   The zoonotic spread of Salmonella comes from 3 main pathways. One being that backyard poultry owners will tend to have more direct contact with the birds. The second comes from the soil around the coop, which is contaminated with feces, and owners most likely don't take precautions when it comes to shoe safety. The third exposure comes from young children who are most susceptible and least likely to practice proper hygiene. These three behaviors together greatly increase pathogen spillover to humans, who then have the possibility to spread it back to other birds, creating a cyclic event.
+
+2.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+<!-- -->
+
+a.  What advantage does Tall fescue gain from being infected with a fungal endophyte? What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+    -   When fescue grass is infected with a Fungal endophyte the grass tends to grow better and becomes more lush. This only creates more of a hazard, since the grass is doing so well, the grazing animals have more to eat, which drives infections.
+
+<!-- -->
+
+b.  What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? 4 points
+    -   Temperature and drought stress increase the alkaloid production, which increases the severity of infection.
+c.  What are the key clinical signs of fescue toxicity in cattle?
+    -   Weight loss, rough or discolored hair, and poor performance.
+
+------------------------------------------------------------------------
+
+**Worksheet 10**
+
+1.  What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF? 10 points
+
+    -   ASF can spread via vector-borne ticks, direct pig-to-pig contact, indirect contact through contaminated feed, environmental spread through contaminated pork products, and human spread. Humans play a role as the handler and have a responsibility to keep proper handling and transportation conditions to reduce the spread.
+
+2.  Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas. 10 points
+
+    -   KoRV has the same effects as HIV, where the Koala's immune system is weakened, which allows higher bacterial loads and increased mortality and infertility rates.
+
+3.  Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)? 10 points
+
+    -   False negatives are common within PCR results, along with trapping the snakes other animals that may find themselves in the trap, making it harder for snakes to inhabit the traps. Snakes can also be difficult to identify which snake have already been tested and may require time time-consuming search through photos of previous snakes.
