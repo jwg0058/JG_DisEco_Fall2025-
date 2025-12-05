@@ -48,6 +48,8 @@ finding, you are 95% confident that the prevalence of exposure to EHD in this fa
 
 ------------------------------------------------------------------------
 
+**Worksheet 3**
+
 Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10th June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows: RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 
 | Elk id | 6/10/25 | 6/11/25 | 6/12/25 | 6/13/25 | 6/14/25 | 6/15/25 | 6/16/25 |
@@ -123,7 +125,7 @@ In the real world, utility R₀ can be used to describe how infectious a particu
 
 ------------------------------------------------------------------------
 
-Worksheet 4 10/23/25
+**Worksheet 4 10/23/25**
 
 **MERS-CoV**
 
